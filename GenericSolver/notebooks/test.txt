@@ -1,0 +1,111 @@
+##########################################################################################
+Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm log file
+Restart folder: /tmp/restart_2023-03-16T22-57-00.373510/
+##########################################################################################
+
+iter = 000, obj = 2.00000e+05, resnorm = 6.32e+02, gradnorm = 2.53e+03, feval = 1, geval = 1
+Appplying inverse Hessian estimate
+Done applying inverse Hessian estimate
+CVSRCH STEPPER BY STEP-LENGTH BRACKETING
+xtol=1.00e-16 ftol=1.00e-04 gtol=9.50e-01 alpha_min=1.00e-20 alpha_max=1.00e+20 maxfev=20 xtrapf=4.00e+00
+	initial-steplength=6.25e-02
+	Current testing point (alpha=6.25e-02): m_current+alpha*dm
+	Objective function value of 0.00000e+00 (feval = 2)
+	The sufficient decrease condition and the directional derivative condition hold (i.e., Strong Wolfe conditions met).
+	Stepper successuful for step length valueof 6.25e-02 and objective function of 0.00e+00 (feval = 2)
+First step-length value added to first Hessian inverse estimate!
+
+iter = 001, obj = 0.00000e+00, resnorm = 0.00e+00, gradnorm = 0.00e+00, feval = 2, geval = 2
+Elapsed time: 0 hours, 0 minutes, 2 seconds
+Current date & time: Thu Mar 16 22:57:02 2023
+Terminate: minimum residual tolerance reached 0.0
+
+##########################################################################################
+Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm log file end
+##########################################################################################
+
+##########################################################################################
+Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm log file
+Restart folder: /tmp/restart_2023-03-16T23-02-18.411402/
+##########################################################################################
+
+iter = 000, obj = 2.00000e+05, resnorm = 6.32e+02, gradnorm = 2.53e+03, feval = 1, geval = 1
+Appplying inverse Hessian estimate
+Done applying inverse Hessian estimate
+CVSRCH STEPPER BY STEP-LENGTH BRACKETING
+xtol=1.00e-16 ftol=1.00e-04 gtol=9.50e-01 alpha_min=1.00e-20 alpha_max=1.00e+20 maxfev=20 xtrapf=4.00e+00
+	initial-steplength=6.25e-02
+	Current testing point (alpha=6.25e-02): m_current+alpha*dm
+	Objective function value of 0.00000e+00 (feval = 2)
+	The sufficient decrease condition and the directional derivative condition hold (i.e., Strong Wolfe conditions met).
+	Stepper successuful for step length valueof 6.25e-02 and objective function of 0.00e+00 (feval = 2)
+First step-length value added to first Hessian inverse estimate!
+
+iter = 001, obj = 0.00000e+00, resnorm = 0.00e+00, gradnorm = 0.00e+00, feval = 2, geval = 2
+Elapsed time: 0 hours, 0 minutes, 1 seconds
+Current date & time: Thu Mar 16 23:02:20 2023
+Terminate: minimum residual tolerance reached 0.0
+
+##########################################################################################
+Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm log file end
+##########################################################################################
+
+##########################################################################################
+Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm log file
+Restart folder: /tmp/restart_2023-03-16T23-02-46.228372/
+##########################################################################################
+
+iter = 000, obj = 2.00000e+05, resnorm = 6.32e+02, gradnorm = 2.53e+03, feval = 1, geval = 1
+Appplying inverse Hessian estimate
+Done applying inverse Hessian estimate
+CVSRCH STEPPER BY STEP-LENGTH BRACKETING
+xtol=1.00e-16 ftol=1.00e-04 gtol=9.50e-01 alpha_min=1.00e-20 alpha_max=1.00e+20 maxfev=20 xtrapf=4.00e+00
+	initial-steplength=6.25e-02
+	Current testing point (alpha=6.25e-02): m_current+alpha*dm
+	Objective function value of 0.00000e+00 (feval = 2)
+	The sufficient decrease condition and the directional derivative condition hold (i.e., Strong Wolfe conditions met).
+	Stepper successuful for step length valueof 6.25e-02 and objective function of 0.00e+00 (feval = 2)
+First step-length value added to first Hessian inverse estimate!
+
+iter = 001, obj = 0.00000e+00, resnorm = 0.00e+00, gradnorm = 0.00e+00, feval = 2, geval = 2
+Elapsed time: 0 hours, 0 minutes, 2 seconds
+Current date & time: Thu Mar 16 23:02:48 2023
+Terminate: minimum residual tolerance reached 0.0
+
+##########################################################################################
+Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm log file end
+##########################################################################################
+
+##########################################################################################
+Limited-memory Broyden-Fletcher-Goldfarb-Shanno with Bounds (L-BFGS-B) algorithm log file
+Maximum number of steps to be used for Hessian inverse estimation: inf 
+Restart folder: /tmp/restart_2023-03-23T17-09-09.419449/
+##########################################################################################
+
+iter = 000, obj = 2.00000e+05, resnorm = 6.32e+02, gradnorm = 2.53e+03, feval = 1, geval = 1
+##########################################################################################
+Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm log file
+Restart folder: /tmp/restart_2023-03-23T17-09-46.201340/
+##########################################################################################
+
+iter = 000, obj = 2.00000e+05, resnorm = 6.32e+02, gradnorm = 2.53e+03, feval = 1, geval = 1
+Appplying inverse Hessian estimate
+Done applying inverse Hessian estimate
+CVSRCH STEPPER BY STEP-LENGTH BRACKETING
+xtol=1.00e-16 ftol=1.00e-04 gtol=9.50e-01 alpha_min=1.00e-20 alpha_max=1.00e+20 maxfev=20 xtrapf=4.00e+00
+	initial-steplength=6.25e-02
+	Current testing point (alpha=6.25e-02): m_current+alpha*dm
+	Objective function value of 0.00000e+00 (feval = 2)
+	The sufficient decrease condition and the directional derivative condition hold (i.e., Strong Wolfe conditions met).
+	Stepper successuful for step length valueof 6.25e-02 and objective function of 0.00e+00 (feval = 2)
+First step-length value added to first Hessian inverse estimate!
+
+iter = 001, obj = 0.00000e+00, resnorm = 0.00e+00, gradnorm = 0.00e+00, feval = 2, geval = 2
+Elapsed time: 0 hours, 0 minutes, 1 seconds
+Current date & time: Thu Mar 23 17:09:47 2023
+Terminate: minimum residual tolerance reached 0.0
+
+##########################################################################################
+Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm log file end
+##########################################################################################
+
